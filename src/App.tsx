@@ -12,7 +12,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>Lorem</p>
-        <p>Lorem5</p>
+        <p>Lorem56</p>
 
         <a
           className="App-link"
